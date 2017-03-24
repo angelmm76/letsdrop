@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="city00"><item>Mumbai, IN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city01"><item>Manaus, BR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city02"><item>Tampa, US</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city03"><item>Cambrai, FR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city04"><item>Guangzhou, CN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city05"><item>Baguio, PH</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city06"><item>Shiraz, IR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city07"><item>Akita, JP</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city08"><item>Turku, FI </item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city09"><item>Maastricht, NL</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city10"><item>Alexandria, EG</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city11"><item>San Jose, CR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city12"><item>Lubumbashi, CD</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city13"><item>Hannover, DE</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city14"><item>Adelaide, AU</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city15"><item>Curitiba, BR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city16"><item>Krakow, PL</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city17"><item>Charlotte, US</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city18"><item>Chittagong, BD</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city19"><item>Izmir, TR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city20"><item>Barquisimeto, VE</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city21"><item>Chongqing, CN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city22"><item>Los Angeles, US</item><item>47.22</item><item>3.69</item></string-array>
+   	<string-array name="city23"><item>Devprayag, IN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city24"><item>London, GB</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city25"><item>Tianjin, CN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city26"><item>Santander, ES</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city27"><item>Singapore, SG</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city28"><item>Quito, EC</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city29"><item>Sao Paulo, BR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city30"><item>Jakarta, ID</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city31"><item>Lagos, NG</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city32"><item>Irkutsk, RU</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city33"><item>Vancouver, CA</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city34"><item>Pisa, IT</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city35"><item>Suez, EG</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city36"><item>Antananarivo, MG</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city37"><item>Pune, IN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city38"><item>Havana, CU</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city39"><item>Bahia Blanca, AR</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city40"><item>Tashkent, UZ</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city41"><item>Kigali, RW</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city42"><item>Timbuktu, ML</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city43"><item>Makassar, ID</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city44"><item>Montevideo, UY</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city45"><item>Karachi, PK</item><item>47.22</item><item>3.69</item></string-array>
+	<string-array name="city46"><item>Matsubara, JP</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city47"><item>Harbin, CN</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city48"><item>Sarajevo, BA</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city49"><item>Mazatlan, MX</item><item>47.22</item><item>3.69</item></string-array>
+    <string-array name="city50"><item>Jaipur, IN</item><item>47.22</item><item>3.69</item></string-array>
+    
+    <array name="cities_array">
+        <item>@array/city00</item>
+        <item>@array/city01</item>
+        <item>@array/city02</item>
+        <item>@array/city03</item>
+        <item>@array/city04</item>
+        <item>@array/city05</item>
+        <item>@array/city06</item>
+        <item>@array/city07</item>
+        <item>@array/city08</item>
+        <item>@array/city09</item>
+        <item>@array/city10</item>
+        <item>@array/city11</item>
+        <item>@array/city12</item>
+        <item>@array/city13</item>
+        <item>@array/city14</item>
+        <item>@array/city15</item>
+        <item>@array/city16</item>
+        <item>@array/city17</item>
+        <item>@array/city18</item>
+        <item>@array/city19</item>
+        <item>@array/city20</item>
+        <item>@array/city21</item>
+        <item>@array/city22</item>
+        <item>@array/city23</item>
+        <item>@array/city24</item>
+        <item>@array/city25</item>
+        <item>@array/city26</item>
+        <item>@array/city27</item>
+        <item>@array/city28</item>
+        <item>@array/city29</item>
+        <item>@array/city30</item>
+        <item>@array/city31</item>
+        <item>@array/city32</item>
+        <item>@array/city33</item>
+        <item>@array/city34</item>
+        <item>@array/city35</item>
+        <item>@array/city36</item>
+        <item>@array/city37</item>
+        <item>@array/city38</item>
+        <item>@array/city39</item>
+        <item>@array/city40</item>
+        <item>@array/city41</item>
+        <item>@array/city42</item>
+        <item>@array/city43</item>
+        <item>@array/city44</item>
+        <item>@array/city45</item>
+        <item>@array/city46</item>
+        <item>@array/city47</item>
+        <item>@array/city48</item>
+        <item>@array/city49</item>
+        <item>@array/city50</item>
+        
+    </array>
+    
+</resources>

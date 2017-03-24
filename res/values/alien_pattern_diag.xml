@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer-array name="line00d"><item>0</item><item>0</item><item>0</item></integer-array>    
+    <integer-array name="line01d"><item>0</item><item>0</item><item>0</item></integer-array>   
+    <integer-array name="line02d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line03d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line04d"><item>1</item><item>0</item><item>0</item></integer-array>    
+    <integer-array name="line05d"><item>0</item><item>0</item><item>1</item></integer-array>   
+    <integer-array name="line06d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line07d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line08d"><item>0</item><item>2</item><item>0</item></integer-array>    
+    <integer-array name="line09d"><item>1</item><item>0</item><item>0</item></integer-array>   
+    <integer-array name="line10d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line11d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line12d"><item>1</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line13d"><item>1</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line14d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line15d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line16d"><item>2</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line17d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line18d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line19d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line20d"><item>0</item><item>1</item><item>2</item></integer-array>
+    <integer-array name="line21d"><item>1</item><item>2</item><item>1</item></integer-array>
+    <integer-array name="line22d"><item>0</item><item>3</item><item>1</item></integer-array>
+    <integer-array name="line23d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line24d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line25d"><item>1</item><item>3</item><item>0</item></integer-array>
+    <integer-array name="line26d"><item>5</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line27d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line28d"><item>0</item><item>1</item><item>1</item></integer-array>
+    <integer-array name="line29d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line30d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line31d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line32d"><item>1</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line33d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line34d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line35d"><item>1</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line36d"><item>3</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line37d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line38d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line39d"><item>2</item><item>3</item><item>0</item></integer-array>
+    <integer-array name="line40d"><item>0</item><item>2</item><item>1</item></integer-array>
+    <integer-array name="line41d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line42d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line43d"><item>3</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line44d"><item>0</item><item>0</item><item>4</item></integer-array>
+    <integer-array name="line45d"><item>1</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line46d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line47d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line48d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line49d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line50d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line51d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line52d"><item>0</item><item>1</item><item>1</item></integer-array>
+    <integer-array name="line53d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line54d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line55d"><item>1</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line56d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line57d"><item>3</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line58d"><item>4</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line59d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line60d"><item>1</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line61d"><item>1</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line62d"><item>2</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line63d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line64d"><item>1</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line65d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line66d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line67d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line68d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line69d"><item>1</item><item>0</item><item>4</item></integer-array>
+    <integer-array name="line70d"><item>2</item><item>0</item><item>3</item></integer-array>
+    <integer-array name="line71d"><item>0</item><item>1</item><item>5</item></integer-array>
+    <integer-array name="line72d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line73d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line74d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line75d"><item>0</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line76d"><item>4</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line77d"><item>2</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line78d"><item>3</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line79d"><item>2</item><item>0</item><item>1</item></integer-array>
+    <integer-array name="line80d"><item>2</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line81d"><item>1</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line82d"><item>0</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line83d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line84d"><item>0</item><item>0</item><item>5</item></integer-array>
+    <integer-array name="line85d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line86d"><item>1</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line87d"><item>1</item><item>1</item><item>1</item></integer-array>
+    <integer-array name="line88d"><item>3</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line89d"><item>1</item><item>0</item><item>3</item></integer-array>
+    <integer-array name="line90d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line91d"><item>1</item><item>1</item><item>0</item></integer-array>
+    <integer-array name="line92d"><item>0</item><item>1</item><item>1</item></integer-array>
+    <integer-array name="line93d"><item>0</item><item>2</item><item>0</item></integer-array>
+    <integer-array name="line94d"><item>3</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line95d"><item>6</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line96d"><item>2</item><item>2</item><item>1</item></integer-array>
+    <integer-array name="line97d"><item>1</item><item>1</item><item>2</item></integer-array>
+    <integer-array name="line98d"><item>0</item><item>0</item><item>2</item></integer-array>
+    <integer-array name="line99d"><item>0</item><item>0</item><item>1</item></integer-array>
+   
+    <array name="alien_pattern_diag">
+        <item>@array/line00d</item>
+        <item>@array/line01d</item>
+        <item>@array/line02d</item>
+        <item>@array/line03d</item>
+        <item>@array/line04d</item>
+        <item>@array/line05d</item>
+        <item>@array/line06d</item>
+        <item>@array/line07d</item>
+        <item>@array/line08d</item>
+        <item>@array/line09d</item>
+        <item>@array/line10d</item>
+        <item>@array/line11d</item>
+        <item>@array/line12d</item>
+        <item>@array/line13d</item>
+        <item>@array/line14d</item>
+        <item>@array/line15d</item>
+        <item>@array/line16d</item>
+        <item>@array/line17d</item>
+        <item>@array/line18d</item>
+        <item>@array/line19d</item>
+        <item>@array/line20d</item>
+        <item>@array/line21d</item>
+        <item>@array/line22d</item>
+        <item>@array/line23d</item>
+        <item>@array/line24d</item>
+        <item>@array/line25d</item>
+        <item>@array/line26d</item>
+        <item>@array/line27d</item>
+        <item>@array/line28d</item>
+        <item>@array/line29d</item>
+        <item>@array/line30d</item>
+        <item>@array/line31d</item>
+        <item>@array/line32d</item>
+        <item>@array/line33d</item>
+        <item>@array/line34d</item>
+        <item>@array/line35d</item>
+        <item>@array/line36d</item>
+        <item>@array/line37d</item>
+        <item>@array/line38d</item>
+        <item>@array/line39d</item>
+        <item>@array/line40d</item>
+        <item>@array/line41d</item>
+        <item>@array/line42d</item>
+        <item>@array/line43d</item>
+        <item>@array/line44d</item>
+        <item>@array/line45d</item>
+        <item>@array/line46d</item>
+        <item>@array/line47d</item>
+        <item>@array/line48d</item>
+        <item>@array/line49d</item>
+        <item>@array/line50d</item>
+        <item>@array/line51d</item>
+        <item>@array/line52d</item>
+        <item>@array/line53d</item>
+        <item>@array/line54d</item>
+        <item>@array/line55d</item>
+        <item>@array/line56d</item>
+        <item>@array/line57d</item>
+        <item>@array/line58d</item>
+        <item>@array/line59d</item>
+        <item>@array/line60d</item>
+        <item>@array/line61d</item>
+        <item>@array/line62d</item>
+        <item>@array/line63d</item>
+        <item>@array/line64d</item>
+        <item>@array/line65d</item>
+        <item>@array/line66d</item>
+        <item>@array/line67d</item>
+        <item>@array/line68d</item>
+        <item>@array/line69d</item>
+        <item>@array/line70d</item>
+        <item>@array/line71d</item>
+        <item>@array/line72d</item>
+        <item>@array/line73d</item>
+        <item>@array/line74d</item>
+        <item>@array/line75d</item>
+        <item>@array/line76d</item>
+        <item>@array/line77d</item>
+        <item>@array/line78d</item>
+        <item>@array/line79d</item>
+        <item>@array/line80d</item>
+        <item>@array/line81d</item>
+        <item>@array/line82d</item>
+        <item>@array/line83d</item>
+        <item>@array/line84d</item>
+        <item>@array/line85d</item>
+        <item>@array/line86d</item>
+        <item>@array/line87d</item>
+        <item>@array/line88d</item>
+        <item>@array/line89d</item>
+        <item>@array/line90d</item>
+        <item>@array/line91d</item>
+        <item>@array/line92d</item>
+        <item>@array/line93d</item>
+        <item>@array/line94d</item>
+        <item>@array/line95d</item>
+        <item>@array/line96d</item>
+        <item>@array/line97d</item>
+        <item>@array/line98d</item>
+        <item>@array/line99d</item>
+        
+    </array>
+
+</resources>

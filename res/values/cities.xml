@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="cities">
+        <item>Mumbai, IN</item>
+        <item>Manaus, BR</item>
+        <item>Tampa, US</item>
+        <item>Cambrai, FR</item>
+        <item>Guangzhou, CN</item>
+        <item>Baguio, PH</item>
+        <item>Shiraz, IR</item>
+        <item>Akita, JP</item>
+        <item>Turku, FI</item>
+        <item>Alexandria, EG</item>
+        <item>San Jose, CR</item>
+        <item>Lubumbashi, CD</item>
+        <item>Hannover, DE</item>
+        <item>Adelaide, AU</item>
+        <item>Curitiba, BR</item>
+        <item>Krakow, PL</item>
+        <item>Charlotte, US</item>
+        <item>Chittagong, BD</item>
+        <item>Izmir, TR</item>
+        <item>Barquisimeto, VE</item>
+        <item>Chongqing, CN</item>
+        <item>Los Angeles, US</item>
+   	    <item>Devprayag, IN</item>
+        <item>London, GB</item>
+        <item>Tianjin, CN</item>
+        <item>Santander, ES</item>
+        <item>Singapore, SG</item>
+        <item>Quito, EC</item>
+        <item>Sao Paulo, BR</item>
+        <item>Jakarta, ID</item>
+        <item>Lagos, NG</item>
+        <item>Irkutsk, RU</item>
+        <item>Vancouver, CA</item>
+        <item>Pisa, IT</item>
+        <item>Suez, EG</item>
+        <item>Antananarivo, MG</item>
+        <item>Pune, IN</item>
+        <item>Havana, CU</item>
+        <item>Bahia Blanca, AR</item>
+        <item>Tashkent, UZ</item>
+        <item>Kigali, RW</item>
+        <item>Timbuktu, ML</item>
+        <item>Makassar, ID</item>
+        <item>Montevideo, UY</item>
+        <item>Karachi, PK</item>
+		<item>Matsubara, JP</item>
+        <item>Harbin, CN</item>
+        <item>Sarajevo, BA</item>
+        <item>Mazatlan, MX</item>
+        <item>Jaipur, IN</item>
+        <item>Maastricht, NL</item>
+        
+    </string-array>
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddCA33EC">
+    
+ 	<TextView
+	   android:id="@+id/smth_text"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:layout_alignParentTop="true"
+	   android:layout_centerHorizontal="true"
+	   android:layout_margin="20dp"
+	   android:text="@string/smth_instructions"
+	   android:textSize="17sp" />
+ 	
+ 	<ImageView
+   	    android:id="@+id/imageView1"
+   	    android:layout_width="125dp"
+   	    android:layout_height="wrap_content"
+   	    android:adjustViewBounds="true"
+   	    android:layout_centerInParent="true"
+   	    android:layout_below="@+id/smth_text"
+   	    android:src="@drawable/smth_image_t" />
+   
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_below="@id/imageView1"
+       android:layout_centerHorizontal="true"
+       android:layout_centerInParent="true"
+       android:orientation="vertical"
+       android:layout_marginRight="40dp"
+       android:layout_marginLeft="40dp" >
+       
+        
+	   <Button
+            android:id="@+id/start_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:background="#B6E49D"
+            android:textSize="20sp"
+            android:text="@string/try_string" />
+
+        <TextView
+            android:id="@+id/prompt_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/height_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="24sp" />
+
+         <TextView
+            android:id="@+id/smthdrops"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:drawableLeft="@drawable/ic_launcher"
+            android:gravity="center_vertical"
+            android:text="+ 0"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+    
+   	<ImageButton
+   	    android:id="@+id/smth_OK_button"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignParentBottom="true"
+   	    android:layout_centerHorizontal="true"
+   	    android:layout_gravity="center"
+   	    android:layout_margin="5dp"
+   	    android:background="@drawable/ic_check_box_75dp" />
+
+
+    	
+</RelativeLayout>
+

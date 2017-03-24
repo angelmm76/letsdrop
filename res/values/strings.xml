@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Let\'s Drop</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_city">SELECT CITY&#8230;</string>
+    <string name="random_city">Random city</string>
+    <string name="my_location">MY LOCATION</string>
+    
+    <string name="math_string">Bit Drops</string>
+    <string name="play_string">PLAY</string>
+    <string name="get_string">GET DROPS</string>
+    <string name="try_string">TRY</string>
+    <string name="smth_string">Gravity Drops</string>
+    <string name="rain_string">Rain Drops</string>
+    <string name="tap_string">Tap Drops</string>
+    <string name="buy_string">Buy Drops</string>
+    
+    <string name="tap_start">START</string>
+    
+    <string name="rain_instructions">Find a city where it is raining right now</string>
+    <string name="smth_instructions">1. Take your device with one hand\n2. Press TRY\n3. 
+        Drop your device\n4. Catch your device with the other hand</string>
+    <string name="math_instructions">Add, subtract, multiply, divide</string>
+    <string name="tap_instructions">A tap a drop</string>
+    <string name="buy_instructions">Get drops for money</string>
+    
+        <!-- Put your own APP ID here -->
+
+	<string name="dark_sky_forecast_api_id">93a744af6a4eec7d53487b1c64510f5f</string>
+     
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string> 
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+     
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    
+    <string name="help_text1">Tap the droplets on the upper bar and let them drop. They will destroy 
+        some nasty bugs.\nBut you\'ll have to get drops too. There are different ways to get more drops. 
+        Finding a city where it\'s raining, doing some math or using the gravity.</string>
+        <string name="help_text2">Have fun!</string>
+        
+</resources>

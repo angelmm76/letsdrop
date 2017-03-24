@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#99111111"
+    android:layout_margin="0dp"
+    android:padding="5dp"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/get_string"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button_rain"
+        style="@style/button_main"
+        android:layout_below="@id/textview1"
+        android:background="@drawable/buttonshape"
+        android:text="@string/rain_string" />
+    
+    <Button
+        android:id="@+id/button_math"
+        android:layout_below="@id/button_rain"
+        style="@style/button_main"
+        android:background="@drawable/buttonshape"
+        android:text="@string/math_string" />
+    
+    <Button
+        android:id="@+id/button_smth"
+        style="@style/button_main"
+        android:layout_below="@id/button_math"
+        android:background="@drawable/buttonshape"
+        android:text="@string/smth_string" />
+    
+    <Button
+        android:id="@+id/button_tap"
+        style="@style/button_main"
+        android:layout_below="@id/button_smth"
+        android:background="@drawable/buttonshape"
+        android:text="@string/tap_string" />
+
+    <Button
+        android:id="@+id/button_buy"
+        android:layout_below="@id/button_smth"       
+        style="@style/button_main"
+        android:background="@drawable/buttonshape"
+        android:visibility="gone"
+        android:text="@string/buy_string" />
+    
+
+</RelativeLayout>

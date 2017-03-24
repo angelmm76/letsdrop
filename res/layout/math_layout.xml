@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dd555559"
+    android:orientation="vertical"
+    tools:context="alphalfa.android.letsdrop.MainActivity" >
+	
+  	<LinearLayout
+  	    android:layout_width="match_parent"
+  	    android:layout_height="match_parent"
+  	    android:layout_weight="2.5"
+  	    android:orientation="vertical" >
+  	       
+  	    <TextView
+	    android:id="@+id/math_text"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:padding="10dp"
+	    android:text="@string/math_instructions"
+	    android:textSize="20sp" />
+  	    
+  	    <RelativeLayout
+	  	    android:layout_width="match_parent"
+	  	    android:layout_height="wrap_content"
+	  	    android:orientation="horizontal" >
+  	    
+	  	    <TextView
+	            android:id="@+id/text_math_question"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:background="#a9c899"
+	            android:gravity="center"
+	            android:text="pregunta"
+	            android:textColor="#558800"
+	            android:textSize="35sp" />
+
+	  	    <ImageButton
+	  	        android:id="@+id/math_refresh_button"
+	  	        android:layout_width="wrap_content"
+	  	        android:layout_height="wrap_content"
+	  	        android:layout_alignParentRight="true"
+	  	        android:layout_alignParentTop="true"
+	  	        android:layout_marginRight="20dp"
+	  	        android:layout_marginTop="20dp"
+	  	        android:background="@drawable/ic_refresh_black_48dp" />
+	  	    
+	  	    <TextView
+	  		    android:id="@+id/text_header"
+	  		    android:layout_width="wrap_content"
+	  		    android:layout_height="wrap_content"
+    		    android:layout_centerHorizontal="true"
+	  	        android:layout_alignParentBottom="true"
+	  		    android:layout_margin="10dp"
+	  		    android:textColor="#777777"
+	  		    android:textSize="20sp" />
+  	    
+  	    </RelativeLayout>
+  	      	    
+    </LinearLayout>
+    
+    <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_weight="2"
+       android:layout_margin="2dp"
+       android:orientation="vertical" >
+
+        <Button
+        	android:id="@+id/button0"
+        	style="@style/button_math"
+        	android:background="@drawable/mathbuttonshape"
+        	android:layout_weight="1" />
+         <Button
+        	android:id="@+id/button1"
+        	style="@style/button_math"
+        	android:background="@drawable/mathbuttonshape"
+        	 android:text="56"
+        	android:layout_weight="1" />
+         <Button
+        	android:id="@+id/button2"
+        	style="@style/button_math"
+        	android:background="@drawable/mathbuttonshape"
+        	android:layout_weight="1" />
+        <Button
+        	android:id="@+id/button3"
+        	style="@style/button_math"
+        	android:background="@drawable/mathbuttonshape"
+        	android:layout_weight="1" />
+       </LinearLayout>
+       
+  	   <TextView
+            android:id="@+id/text_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/ic_launcher"
+            android:text="+ 0"
+            android:textSize="25dp" />
+  		         
+    	<ImageButton
+    	    android:id="@+id/math_OK_button"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:padding="10dp"
+			android:scaleType="fitCenter"
+    	    android:layout_gravity="center_horizontal"
+    	    android:layout_margin="5dp"
+    	    android:background="@drawable/ic_check_box_75dp" />
+    
+</LinearLayout>

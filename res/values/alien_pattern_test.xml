@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer-array name="line00t"><item>2</item><item>2</item><item>2</item></integer-array>    
+    <integer-array name="line01t"><item>6</item><item>4</item><item>0</item></integer-array>   
+    <integer-array name="line02t"><item>0</item><item>3</item><item>3</item></integer-array>
+    <integer-array name="line03t"><item>5</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line04t"><item>0</item><item>4</item><item>0</item></integer-array>    
+    <integer-array name="line05t"><item>2</item><item>0</item><item>5</item></integer-array>   
+    <integer-array name="line06t"><item>7</item><item>0</item><item>0</item></integer-array>
+    <integer-array name="line07t"><item>4</item><item>0</item><item>4</item></integer-array>
+    <integer-array name="line08t"><item>0</item><item>1</item><item>0</item></integer-array>    
+    <integer-array name="line09t"><item>4</item><item>0</item><item>5</item></integer-array>   
+    <integer-array name="line10t"><item>3</item><item>3</item><item>3</item></integer-array>
+   
+    <array name="alien_pattern_test">
+        <item>@array/line00t</item>
+        <item>@array/line01t</item>
+        <item>@array/line02t</item>
+        <item>@array/line03t</item>
+        <item>@array/line04t</item>
+        <item>@array/line05t</item>
+        <item>@array/line06t</item>
+        <item>@array/line07t</item>
+        <item>@array/line08t</item>
+        <item>@array/line09t</item>
+        <item>@array/line10t</item>
+        
+    </array>
+
+</resources>
